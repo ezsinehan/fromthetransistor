@@ -1,3 +1,36 @@
+## Timeline (Start: April 1, 2026)
+
+- **Section 1 — Intro (0.5 week)**
+  - Deadline: April 4, 2026
+
+- **Section 2 — Bringup (0.5 week)**
+  - Deadline: April 7, 2026
+
+- **Section 3 — Processor (3 weeks)**
+  - Deadline: April 28, 2026
+
+- **Section 4 — Compiler (3 weeks)**
+  - Deadline: May 19, 2026
+
+- **Section 5 — Operating System (3 weeks)**
+  - Deadline: June 9, 2026
+
+- **Section 6 — Browser (1 week)**
+  - Deadline: June 16, 2026
+
+- **Section 7 — Physical (1 week)**
+  - Deadline: June 23, 2026
+
+
+## Key Milestones
+
+- April 14, 2026 — Verilog + UART working  
+- April 28, 2026 — CPU + bootrom functional  
+- May 19, 2026 — Compiler + linker + libc complete  
+- June 9, 2026 — OS boots with basic syscalls  
+- June 16, 2026 — TCP/networking working  
+- June 23, 2026 — End-to-end system + browser
+
 ## From the Transistor to the Web Browser
 
 Hiring is hard, a lot of modern CS education is really bad, and it's hard to find people who understand the modern computer stack from first principles.
